@@ -1,0 +1,13 @@
+{
+    "name": "node-zeitcoin",
+    "version": "0.0.1",
+    "description": "Zeitcoin client",
+    "keywords": ["Zeitcoin"],
+    "repository": "",
+    "author": "JustTheDoctor <justthedoctor.931@gmail.com>",
+    "main": "lib/zeitcoin.js",
+    "engines": { "node": ">= 0.4.0" },
+    "devDependencies": {
+        "nodeunit": "*"
+    }
+}
